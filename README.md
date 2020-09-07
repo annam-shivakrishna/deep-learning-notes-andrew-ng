@@ -130,7 +130,7 @@ a = 5, b=3, c=2     ----- J = 33
 Computing Derivatives
 fix the value of u and change a 
 
-
+Computational Graph helps in updating weights and bias through backward propagation steps.
 
 
 
