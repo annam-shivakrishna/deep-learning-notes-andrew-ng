@@ -132,6 +132,6 @@ fix the value of u and change a
 
 Computational Graph helps in updating weights and bias through backward propagation steps.
 
-
+1.
 
 
